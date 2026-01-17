@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoga Vignesh V</h1>
 <h3 align="center">An Edge AI, Computer Vision & Robotics developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogav28&label=Profile%20views&color=0e75b6&style=flat" alt="yogaV28" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogaV28&label=Profile%20views&color=0e75b6&style=flat" alt="yogaV28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogaV28" alt="yogaV28" /></a> </p>
 
